@@ -19,6 +19,9 @@ public class Funciones_con_dos_numeros{
 			System.out.println("Los numeros son iguales");
 		}
 		
+		int suma = numero1 + numero2;
+			System.out.println("La suma de los dos numeros es: "+suma);
+		
 		scanner.close();
 	}
 }
